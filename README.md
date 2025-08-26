@@ -56,7 +56,7 @@ Ideal for practicing **OOP** concepts and improving logic skills.
 
 [![LinkedIn](assets/badges/linkedin.svg)](https://www.linkedin.com/in/davi-peterson-a6b733280/)
 [![Instagram](assets/badges/instagram.svg)](https://www.instagram.com/davipeterson07/)
-[![X](assets/badges/x.svg)](https://x.com/naitass/)
+[![X](assets/badges/x.svg)](https://x.com/naitass/)<br>
 [![Personal Email](assets/badges/personal.svg)](mailto:davipeter7@gmail.com)
 [![Institutional Email](assets/badges/institutional.svg)](mailto:d2024006756@unifei.edu.br)
 
