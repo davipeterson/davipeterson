@@ -1,16 +1,29 @@
-## Hi there 👋
+# Davi Peterson
 
-<!--
-**davipeterson/davipeterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Student (4th Semester)** at **Federal University of Itajubá (UNIFEI)**  
+💻 Interested in software development, algorithms, and computer systems.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Technologies
+- **Languages:** C, C++, Python, Java, Haskell, JavaScript  
+- **Web Development:** HTML, CSS  
+
+---
+
+## 📈 Currently
+- Improving knowledge in programming languages and software development  
+- Working on academic projects and expanding my portfolio  
+
+---
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/davi-peterson-a6b733280/)  
+- 📧 Personal: [davipeter7@gmail.com](mailto:davipeter7@gmail.com)  
+- 📧 Institutional: [d2024006756@unifei.edu.br](mailto:d2024006756@unifei.edu.br)  
+
+---
+
+## ⚡ GitHub Stats
+![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davi-peterson&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-peterson&layout=compact&theme=radical)  
