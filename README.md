@@ -28,8 +28,8 @@
 
 ## 📌 Featured Project: Minesweeper Java
 
-A console-based implementation of the classic **Minesweeper** game built with **Java** and **Maven**.  
-Ideal for practicing **OOP** concepts and improving logic skills.
+🕹️ A console-based implementation of the classic **Minesweeper** game built with **Java** and **Maven**.  
+🧠 Ideal for practicing **OOP** concepts and improving logic skills.
 
 [![GitHub - Minesweeper Java](assets/badges/repository.svg)](https://github.com/davipeterson/minesweeper-java)
 
