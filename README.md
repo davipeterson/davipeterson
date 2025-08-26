@@ -1,21 +1,32 @@
 <div align="center">
   
 # 👋 Hey, I'm **Davi Peterson**  
-🎓 *Computer Engineering Student @ UNIFEI (4th Semester)*  
+🎓 *Computer Engineering Student (4th Semester) @ **Federal University of Itajubá** (UNIFEI)*  
 💻 Passionate about **software development**, **algorithms** and **computer systems**  
 
 ---
 
 ## 🚀 Skills & Technologies
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+```markdown
+<p>
+<img src="assets/badges/c.svg" alt="C" width="150" />
+<img src="assets/badges/cpp.svg" alt="C++" width="150" />
+<img src="assets/badges/java.svg" alt="Java" width="150" />
+<img src="assets/badges/python.svg" alt="Python" width="150" />
+<img src="assets/badges/javascript.svg" alt="JavaScript" width="150" />
+<img src="assets/badges/haskell.svg" alt="Haskell" width="150" />
+<img src="assets/badges/html5.svg" alt="HTML5" width="150" />
+<img src="assets/badges/css.svg" alt="CSS" width="150" />
+</p>
+```
+
+---
+
+## 📈 Currently 
+
+  - Improving knowledge in programming languages and software development
+  - Working on academic projects and expanding my portfolio 
 
 ---
 
