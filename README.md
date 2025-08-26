@@ -8,18 +8,14 @@
 
 ## 🚀 Skills & Technologies
 
-```markdown
-<p>
-<img src="assets/badges/c.svg" alt="C" width="150" />
-<img src="assets/badges/cpp.svg" alt="C++" width="150" />
-<img src="assets/badges/java.svg" alt="Java" width="150" />
-<img src="assets/badges/python.svg" alt="Python" width="150" />
-<img src="assets/badges/javascript.svg" alt="JavaScript" width="150" />
-<img src="assets/badges/haskell.svg" alt="Haskell" width="150" />
-<img src="assets/badges/html5.svg" alt="HTML5" width="150" />
-<img src="assets/badges/css.svg" alt="CSS" width="150" />
-</p>
-```
+<img src="assets/badges/c.svg" alt="C" height="40">
+<img src="assets/badges/cpp.svg" alt="C++" height="40">
+<img src="assets/badges/java.svg" alt="Java" height="40">
+<img src="assets/badges/python.svg" alt="Python" height="40">
+<img src="assets/badges/javascript.svg" alt="JavaScript" height="40">
+<img src="assets/badges/haskell.svg" alt="Haskell" height="40">
+<img src="assets/badges/html5.svg" alt="HTML5" height="40">
+<img src="assets/badges/css.svg" alt="CSS" height="40">
 
 ---
 
