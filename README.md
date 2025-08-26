@@ -39,6 +39,7 @@
 
 | 🚀 Project | 📝 Description | 🛠 Tech Stack | 📌 Status |
 |------------|---------------|---------------|-----------|
+| [**Minesweeper C**](https://github.com/davipeterson/minesweeper-c) | Console-based Minesweeper game | ![C](assets/badges/c.svg) | ✅ Completed |
 | [**Minesweeper Java**](https://github.com/davipeterson/minesweeper-java) | Console-based Minesweeper game | ![Java](assets/badges/java.svg) ![Maven](assets/badges/maven.svg) | ✅ Completed |
 | [**Nordic Saga**](https://github.com/davipeterson/nordic-saga) | Java project about Nordic mythology | ![Java](assets/badges/java.svg) ![Maven](assets/badges/maven.svg) | 🚧 In Progress |
 | [**Portfolio Website**](https://github.com/davipeterson/portfolio) | Personal portfolio site | ![HTML5](assets/badges/html5.svg) ![CSS](assets/badges/css.svg) ![JavaScript](assets/badges/javascript.svg) | 📝 Planned |
