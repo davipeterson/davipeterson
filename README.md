@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Skills & Technologies
-- **Languages:** C, C++, Python, Java, Haskell, JavaScript  
+- **Languages:** C, C++, Java, Python, JavaScript, Haskell  
 - **Web Development:** HTML, CSS  
 
 ---
@@ -17,13 +17,6 @@
 
 ---
 
-## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/davi-peterson-a6b733280/)  
-- 📧 Personal: [davipeter7@gmail.com](mailto:davipeter7@gmail.com)  
-- 📧 Institutional: [d2024006756@unifei.edu.br](mailto:d2024006756@unifei.edu.br)  
-
----
-
 ## ⚡ GitHub Stats
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davi-peterson&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-peterson&layout=compact&theme=radical)  
+![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davipeterson&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davipeterson&layout=compact&theme=radical)  
