@@ -47,8 +47,8 @@
 
 ## 📊 GitHub Stats
 
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davipeterson&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davipeterson&layout=compact&theme=radical)
+![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davipeterson&show_icons=true&theme=transparent&cache_seconds=86400)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davipeterson&layout=compact&theme=transparent&cache_seconds=86400)
 
 ---
 
