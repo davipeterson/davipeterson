@@ -43,14 +43,8 @@
 | [**Minesweeper Java**](https://github.com/davipeterson/minesweeper-java) | Console-based Minesweeper game | ![Java](assets/badges/java.svg) ![Maven](assets/badges/maven.svg) | ✅ Completed |
 | [**Nordic Saga**](https://github.com/davipeterson/nordic-saga) | Java project about Nordic mythology | ![Java](assets/badges/java.svg) ![Maven](assets/badges/maven.svg) | 🚧 In Progress |
 | [**Beecrowd Solutions**](https://github.com/davipeterson/beecrowd-solutions) | All my Beecrowd Solutions | ![C](assets/badges/c.svg) ![C++](assets/badges/cpp.svg) | 🚧 In Progress |
+| [**ECOT12 Projects**](https://github.com/davipeterson/ecot12-projects) | All my projects from the ECOT12 (Software Project) discipline | ![Java](assets/badges/java.svg) ![Maven](assets/badges/maven.svg) | 🚧 In Progress |
 | [**Portfolio Website**](https://github.com/davipeterson/portfolio) | Personal portfolio site | ![HTML5](assets/badges/html5.svg) ![CSS](assets/badges/css.svg) ![JavaScript](assets/badges/javascript.svg) | 📝 Planned |
-
----
-
-## 📊 GitHub Stats
-
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davipeterson&show_icons=true&theme=transparent&cache_seconds=86400)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davipeterson&layout=compact&theme=transparent&cache_seconds=86400)
 
 ---
 
