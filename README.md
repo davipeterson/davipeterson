@@ -41,7 +41,7 @@
 |------------|---------------|---------------|-----------|
 | [**Minesweeper C**](https://github.com/davipeterson/minesweeper-c) | Console-based Minesweeper game | ![C](assets/badges/c.svg) | ✅ Completed |
 | [**Minesweeper Java**](https://github.com/davipeterson/minesweeper-java) | Console-based Minesweeper game | ![Java](assets/badges/java.svg) ![Maven](assets/badges/maven.svg) | ✅ Completed |
-| [**Nordic Saga**](https://github.com/davipeterson/nordic-saga) | Java project about Nordic mythology | ![Java](assets/badges/java.svg) ![Maven](assets/badges/maven.svg) | 🚧 In Progress |
+| [**Nordic Saga**](https://github.com/davipeterson/nordic-saga) | Java project about Nordic mythology | ![Java](assets/badges/java.svg) ![Maven](assets/badges/maven.svg) | ✅ Completed |
 | [**Beecrowd Solutions**](https://github.com/davipeterson/beecrowd-solutions) | All my Beecrowd Solutions | ![C](assets/badges/c.svg) ![C++](assets/badges/cpp.svg) | 🚧 In Progress |
 | [**ECOT12 Projects**](https://github.com/davipeterson/ecot12-projects) | All my projects from the ECOT12 (Software Project) discipline | ![Java](assets/badges/java.svg) ![Maven](assets/badges/maven.svg) | 🚧 In Progress |
 | [**Portfolio Website**](https://github.com/davipeterson/portfolio) | Personal portfolio site | ![HTML5](assets/badges/html5.svg) ![CSS](assets/badges/css.svg) ![JavaScript](assets/badges/javascript.svg) | 📝 Planned |
